@@ -7,5 +7,6 @@
 
 ## 🌟 Contact 🌟
 
-[Discord] - ParadoxのDiscordサーバーです
-[Twitter] - オーナーのTwitterアカウントです
+[Discord](https://discord.gg/ch4nge) - ParadoxのDiscordサーバーです
+
+[Twitter](https://twitter.com/@Rumty_zZ) - オーナーのTwitterアカウントです
