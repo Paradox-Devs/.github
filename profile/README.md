@@ -2,7 +2,7 @@
 
 ## 🌟 About organizations 🌟
 
-この組織は[Rumty](https://github/Rumty)が運営しています
+この組織は[Rumty](https://github.com/Rumty)が運営しています
 主にDiscordBotやウェブサイトを開発しています
 
 ## 🌟 Contact 🌟
